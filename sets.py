@@ -1,0 +1,10 @@
+a=input("Enter number 1\n")
+b=input("Enter number 2\n")
+c=input("Enter number 3\n")
+d=input("Enter number 4\n")
+e=input("Enter number 5\n")
+f=input("Enter number 6\n")
+g=input("Enter number 7\n")
+h=input("Enter number 8\n")
+x={a,b,c,d,e ,f,g,h}
+print(x)
